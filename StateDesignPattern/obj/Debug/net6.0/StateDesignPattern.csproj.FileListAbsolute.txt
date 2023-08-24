@@ -1,0 +1,15 @@
+D:\MonoDotNet\Session 32\StateDesignPattern\bin\Debug\net6.0\StateDesignPattern.exe
+D:\MonoDotNet\Session 32\StateDesignPattern\bin\Debug\net6.0\StateDesignPattern.deps.json
+D:\MonoDotNet\Session 32\StateDesignPattern\bin\Debug\net6.0\StateDesignPattern.runtimeconfig.json
+D:\MonoDotNet\Session 32\StateDesignPattern\bin\Debug\net6.0\StateDesignPattern.dll
+D:\MonoDotNet\Session 32\StateDesignPattern\bin\Debug\net6.0\StateDesignPattern.pdb
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.dll
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\refint\StateDesignPattern.dll
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.pdb
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\StateDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet\Session 32\StateDesignPattern\obj\Debug\net6.0\ref\StateDesignPattern.dll
