@@ -1,0 +1,15 @@
+D:\MonoDotNet\Session 32\LinqDemo2\bin\Debug\net6.0\LinqDemo2.exe
+D:\MonoDotNet\Session 32\LinqDemo2\bin\Debug\net6.0\LinqDemo2.deps.json
+D:\MonoDotNet\Session 32\LinqDemo2\bin\Debug\net6.0\LinqDemo2.runtimeconfig.json
+D:\MonoDotNet\Session 32\LinqDemo2\bin\Debug\net6.0\LinqDemo2.dll
+D:\MonoDotNet\Session 32\LinqDemo2\bin\Debug\net6.0\LinqDemo2.pdb
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.csproj.AssemblyReference.cache
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.AssemblyInfoInputs.cache
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.AssemblyInfo.cs
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.csproj.CoreCompileInputs.cache
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.dll
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\refint\LinqDemo2.dll
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.pdb
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\LinqDemo2.genruntimeconfig.cache
+D:\MonoDotNet\Session 32\LinqDemo2\obj\Debug\net6.0\ref\LinqDemo2.dll
